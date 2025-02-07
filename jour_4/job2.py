@@ -36,3 +36,4 @@ prof = Professeur("Mathématiques")
 prof.modif_age(40)
 prof.afficher_age()
 prof.bonjour()
+
